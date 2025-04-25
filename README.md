@@ -8,12 +8,12 @@
 
 ---
 
-### 👨‍🎓 About Me
+### About Me
 
-🎓 I'm currently pursuing a degree in **Computer Systems Engineering** at **Instituto Tecnológico de Morelia**.<br/>
-🌐 I’m also taking a **specialization in Web Development and Cloud Technologies**.<br/>
-📚 I'm in my **8th semester**, about to graduate!<br/>
-💻 Passionate about **web development**, I enjoy building robust APIs with **FastAPI**, exploring automation and scraping tools, and creating interactive interfaces using **React** & **TypeScript**.
+-I'm currently pursuing a degree in **Computer Systems Engineering** at **Instituto Tecnológico de Morelia**.<br/>
+- I’m also taking a **specialization in Web Development and Cloud Technologies**.<br/>
+- I'm in my **8th semester**, about to graduate!<br/>
+- Passionate about **web development**, I enjoy building robust APIs with **FastAPI**, exploring automation and scraping tools, and creating interactive interfaces using **React** & **TypeScript**.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/jorge-andré-becerra-villagómez-847451352/)
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🚀 What I'm up to
+### What I'm up to
 
 - I’m currently learning:
   - React 
